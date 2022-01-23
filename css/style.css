@@ -4,13 +4,14 @@
     color: white;
 }
 .watch-color{
-    background-color: #ffa500;
+    background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
+
 }
 .bag-color{
-    background-color: #da70d6;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
 .shoe-color{
-    background-color: #0000ff;
+    background-image: linear-gradient(to bottom, #4289FF 0%, #3F07F8 100%);
 }
 .categories img{
     width: 100px;
