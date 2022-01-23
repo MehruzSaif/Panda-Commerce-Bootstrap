@@ -1,0 +1,20 @@
+
+.button-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+}
+.watch-color{
+    background-color: #ffa500;
+}
+.bag-color{
+    background-color: #da70d6;
+}
+.shoe-color{
+    background-color: #0000ff;
+}
+.categories img{
+    width: 100px;
+}
+.panda-background-color{
+    background-color: #fceae8;
+}
