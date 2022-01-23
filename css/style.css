@@ -1,4 +1,6 @@
-
+.panda-background-color{
+    background-color: #fceae8;
+}
 .button-color{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: white;
@@ -15,7 +17,4 @@
 }
 .categories img{
     width: 100px;
-}
-.panda-background-color{
-    background-color: #fceae8;
 }
